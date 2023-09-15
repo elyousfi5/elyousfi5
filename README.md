@@ -221,12 +221,9 @@
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elyousfi5&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
     </p>
-    <p align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=elyousfi5&theme=xcode&bg_color=151515" alt="Activity Graph" />
-    </p>
 </details>
   
 <br/>
 <br/>
-<img src="https://github.com/ElyousfiMohamed/github/assets/images/rodape_readme.jpg" alt="Art for footer readme.md" />
+<img src="https://github.com/ElyousfiMohamed/ElyousfiMohamed/github/assets/images/rodape_readme.jpg" alt="Art for footer readme.md" />
 <!-- [![Mohamed ELYOUSFI's github activity graph](https://activity-graph.herokuapp.com/graph?username=elyousfi5&theme=react-dark)](https://github.com/elyousfi5) -->
