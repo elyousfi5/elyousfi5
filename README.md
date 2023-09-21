@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>⚡ Interested in</td>
-    <td>Web development (python, java) | Artificial Intelligence | Big Data</td>
+    <td>Web development (python, java) | Data science | Big Data</td>
   </tr>
  <tr>
     <td>💥 Interests</td>
