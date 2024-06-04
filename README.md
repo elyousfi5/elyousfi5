@@ -1,23 +1,28 @@
-<h3 align="center">🌛 سبحان الله وبحمده، والحمد لله، ولا إله إلا الله، والله أكبر 🌜</h3>
-<h1 align="center">Hello 👋, I'm Mohamed ELYOUSFI 🥋</h1>
+<h4 align="center">🌛 سبحان الله وبحمده، والحمد لله، ولا إله إلا الله، والله أكبر 🌜</h4>
+<h3 align="center">Hello 👋, I'm Mohamed ELYOUSFI 🥋</h3>
+<h4 align="center">🔻 FREE PALESTINE 🔻</h4>
 
 ---
 <h3 align="center">🍁 About me 🍁</h3>
 <table border="1" cellspacing="0" cellpadding="1" align="center">
  <tr>
-    <td>💻 State Engineer</td>
+    <td>💻 Software Engineer</td>
+    <td>At Ostorlab</td>
+  </tr>
+ <tr>
+    <td>📚 Education</td>
     <td>Big Data and Cloud Computing at ENSET-M</td>
   </tr>
   <tr>
     <td>🌱 Currently learning</td>
-     <td> Ostorlab | Transformers | MLOps </td>
+     <td> Ostorlab | Kubernetes | Flask </td>
   </tr>
   <tr>
     <td>⚡ Interested in</td>
-    <td>Web development (python, java) | Data science | Big Data</td>
+    <td>Software Engineering | Data Science | Big Data</td>
   </tr>
  <tr>
-    <td>💥 Interests</td>
+    <td>💥 Hobbies</td>
     <td>Football(s̵o̵c̵c̵e̵r̵)⚽️, Karate 🥋 and Gaming 🎮</td>
   </tr>
   <tr>
@@ -69,30 +74,17 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
-    </td>
-<td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastApi"/>
-      </a>
-      <br>FastApi
-    </td>
+      <td align="center" width="96">
+       <a href="#elyousfi" >
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue"/>
+       </a>
+       <br>VueJs
+     </td>
       <td align="center" width="96">
       <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="Html"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48" alt="AngularJs"/>
       </a>
-      <br>Html
-    </td>
-   <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="Css"/>
-      </a>
-      <br>Css
-    </td>
-      <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48" alt="Angular"/>
-      </a>
-      <br>Angular
+      <br>AngularJs
     </td>
   </tr>
  </tr>
