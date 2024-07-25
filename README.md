@@ -219,5 +219,5 @@
 <br/>
 <img src="https://github.com/ElyousfiMohamed/ElyousfiMohamed/github/assets/images/rodape_readme.jpg" alt="Art for footer readme.md" />
 <!-- [![Mohamed ELYOUSFI's github activity graph](https://activity-graph.herokuapp.com/graph?username=elyousfi5&theme=react-dark)](https://github.com/elyousfi5) -->
-</details> -->
+</details>
 
