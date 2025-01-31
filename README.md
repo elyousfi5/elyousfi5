@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>🌱 Currently learning</td>
-     <td> Ostorlab | Kubernetes | Flask </td>
+     <td> Ostorlab | Kubernetes </td>
   </tr>
   <tr>
     <td>⚡ Interested in</td>
