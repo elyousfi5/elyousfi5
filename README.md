@@ -74,11 +74,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
-      <td align="center" width="96">
-       <a href="#elyousfi" >
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue"/>
-       </a>
-       <br>VueJs
      </td>
       <td align="center" width="96">
       <a href="#elyousfi" >
