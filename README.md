@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>🏛️ Organization</td>
-    <td>Direction Générale des Impôts – Ministry of Finance (Morocco)</td>
+    <td>Ministry of Economy and Finance (Morocco)</td>
   </tr>
   <tr>
     <td>📚 Education</td>
